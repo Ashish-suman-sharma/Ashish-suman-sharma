@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/##" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="##" height="30" width="40" /></a>
-<a href="https://twitter.com/ashishs61007503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishs61007503" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-suman-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-suman-web-developer" height="30" width="40" /></a>
-<a href="https://instagram.com/ashish_suman_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_suman_0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashish_suman_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_suman_0" height="30" width="40" /></a>
+<a href="https://codepen.io/##" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-codepen-283475.png?f=webp&w=512" alt="##" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishs61007503" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-241-721979.png?f=webp&w=512" alt="ashishs61007503" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-suman-web-developer" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=webp&w=512" alt="ashish-suman-web-developer" height="30" width="40" /></a>
+<a href="https://instagram.com/ashish_suman_0" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=512" alt="ashish_suman_0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashish_suman_0" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" alt="ashish_suman_0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
