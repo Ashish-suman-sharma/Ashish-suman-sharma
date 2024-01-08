@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish suman</h1>
-I am Ashish Suman Sharma, a devoted web developer who takes pleasure in crafting digital experiences. 
+I am Ashish Suman Sharma, a devoted web developer who takes pleasure in crafting digital experiences.</br>
 
  web develoment is a form of expression where I turn ideas into user-friendly websites. Proficient in HTML, CSS, JavaScript, React, Node.js, and Express, I'm always learning to stay at the forefront of the dynamic web landscape. Beyond coding, you'll find me exploring the intersections of technology, music, and creativity. Feel free to connect with me at ashish9264suman@gmail.com or on [linkedin](https://www.linkedin.com/in/ashish-suman-web-developer/). Excited to embark on this web development journey together!
 
